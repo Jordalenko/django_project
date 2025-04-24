@@ -1,1 +1,1 @@
-web: gunicorn django_project.wsgi
+web: gunicorn hello-world-888.wsgi
